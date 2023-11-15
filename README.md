@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-**REQUISITOS**
+REQUISITOS
   
   Python 3.x
   Bibliotecas: 
