@@ -8,12 +8,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+# REQUISITOS
+  Python 3.x
+  Bibliotecas: Requests, Pandas, Numpy, Sqlalchemy (todas as bilbiotecas estão no arquivo Requirements.TXT) 
 </p>
 
-<p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</p>
 
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
